@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "DOKO",
+  "base_artist": "KEN-U",
+  "createdAt": "2026-01-07T14:32:36.138738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yuuki wa Doko ni? Kimi no Mune ni!",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/01_Yuuki_wa_Doko_ni__Kimi_no_Mune_ni!_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Doko E",
+      "artist": "Can",
+      "has_synced": false,
+      "path": "select/02_Doko_E_Can.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "hōrō kamome wa doko made mo",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/03_hōrō_kamome_wa_doko_made_mo_スピッツ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Doko E (Aug. 73)",
+      "artist": "CAN",
+      "has_synced": false,
+      "path": "select/04_Doko_E_(Aug._73)_CAN.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "宇宙的DON-DOKO-DON",
+      "artist": "中島愛",
+      "has_synced": true,
+      "path": "select/05_宇宙的DON-DOKO-DON_中島愛.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Doko E.",
+      "artist": "Can",
+      "has_synced": false,
+      "path": "select/06_Doko_E._Can.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Doko e...",
+      "artist": "ELISA",
+      "has_synced": true,
+      "path": "select/07_Doko_e..._ELISA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Doko,Doko",
+      "artist": "Kondio",
+      "has_synced": false,
+      "path": "select/08_Doko,Doko_Kondio.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Doko ni Demo",
+      "artist": "Nevo Angel",
+      "has_synced": true,
+      "path": "select/09_Doko_ni_Demo_Nevo_Angel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Doko",
+      "artist": "MC Igu",
+      "has_synced": false,
+      "path": "select/10_Doko_MC_Igu.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dancing In The Rain (feat. Tania Doko)",
+      "artist": "Damon Hess",
+      "has_synced": true,
+      "path": "select/11_Dancing_In_The_Rain_(feat._Tania_Doko)_Damon_Hess.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Today (feat.DOKO)",
+      "artist": "Jung Key",
+      "has_synced": true,
+      "path": "select/12_Today_(feat.DOKO)_Jung_Key.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Broke Up, Met Again (prod. DOKO) (You Remix)",
+      "artist": "JUSTHIS",
+      "has_synced": true,
+      "path": "select/13_Broke_Up,_Met_Again_(prod._DOKO)_(You_Remix)_JUSTHIS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yuuki wa doko ni? Kimi no Mune ni!",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/14_Yuuki_wa_doko_ni__Kimi_no_Mune_ni!_Aqours.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOKO",
+      "artist": "KEN-U",
+      "has_synced": false,
+      "path": "select/pl_01_DOKO_KEN-U.txt"
+    }
+  ]
+}
